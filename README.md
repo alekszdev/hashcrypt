@@ -1,3 +1,3 @@
 # HASHCRYPT
 
-![image](https://github.com/user-attachments/assets/4bd36f81-ee35-439a-8b4f-f71f8d21dc53)
+![image](https://raw.githubusercontent.com/alekszdev/hashcrypt/refs/heads/main/Hashcrypt.gif)
