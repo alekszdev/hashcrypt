@@ -166,6 +166,7 @@ def main_menu():
 ██╔══██║██╔══██║╚════██║██╔══██║██║     ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║   
 ██║  ██║██║  ██║███████║██║  ██║╚██████╗██║  ██║   ██║   ██║        ██║   
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝   
+by alekszdev.
 {Fore.RESET}""")
     print(f"{Fore.CYAN}[{Fore.RESET}1{Fore.CYAN}]{Fore.RESET} HASH AND SALT.")
     print(f"{Fore.CYAN}[{Fore.RESET}2{Fore.CYAN}]{Fore.RESET} ONLY HASH.")
